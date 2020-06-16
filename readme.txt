@@ -4,3 +4,5 @@ Git has a mutable index called stage
 <<<<<<< HEAD
 Creating a new branch is quick and simple.
 ======
+master one
+issue-101
