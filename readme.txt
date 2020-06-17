@@ -5,3 +5,4 @@ Git has a mutable index called stage
 Creating a new branch is quick and simple.
 BUG branch======
 remote edit 1
+dev1 2nd edit
